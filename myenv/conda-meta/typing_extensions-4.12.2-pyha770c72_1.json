@@ -6,7 +6,7 @@
   "depends": [
     "python >=3.9"
   ],
-  "extracted_package_dir": "d:\\anaconda\\pkgs\\typing_extensions-4.12.2-pyha770c72_1",
+  "extracted_package_dir": "D:\\anaconda\\pkgs\\typing_extensions-4.12.2-pyha770c72_1",
   "files": [
     "Lib/site-packages/typing_extensions-4.12.2.dist-info/INSTALLER",
     "Lib/site-packages/typing_extensions-4.12.2.dist-info/LICENSE",
@@ -16,19 +16,19 @@
     "Lib/site-packages/typing_extensions-4.12.2.dist-info/WHEEL",
     "Lib/site-packages/typing_extensions-4.12.2.dist-info/direct_url.json",
     "Lib/site-packages/typing_extensions.py",
-    "Lib/site-packages/__pycache__/typing_extensions.cpython-313.pyc"
+    "Lib/site-packages/__pycache__/typing_extensions.cpython-311.pyc"
   ],
   "fn": "typing_extensions-4.12.2-pyha770c72_1.conda",
   "license": "PSF-2.0",
   "license_family": "PSF",
   "link": {
-    "source": "d:\\anaconda\\pkgs\\typing_extensions-4.12.2-pyha770c72_1",
+    "source": "D:\\anaconda\\pkgs\\typing_extensions-4.12.2-pyha770c72_1",
     "type": 1
   },
   "md5": "d17f13df8b65464ca316cbc000a3cb64",
   "name": "typing_extensions",
   "noarch": "python",
-  "package_tarball_full_path": "d:\\anaconda\\pkgs\\typing_extensions-4.12.2-pyha770c72_1.conda",
+  "package_tarball_full_path": "D:\\anaconda\\pkgs\\typing_extensions-4.12.2-pyha770c72_1.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -89,7 +89,7 @@
         "size_in_bytes": 134451
       },
       {
-        "_path": "Lib/site-packages/__pycache__/typing_extensions.cpython-313.pyc",
+        "_path": "Lib/site-packages/__pycache__/typing_extensions.cpython-311.pyc",
         "path_type": "pyc_file"
       }
     ],

@@ -7,7 +7,7 @@
     "python >=3.9",
     "traitlets >=5.3"
   ],
-  "extracted_package_dir": "d:\\anaconda\\pkgs\\comm-0.2.2-pyhd8ed1ab_1",
+  "extracted_package_dir": "D:\\anaconda\\pkgs\\comm-0.2.2-pyhd8ed1ab_1",
   "files": [
     "Lib/site-packages/comm-0.2.2.dist-info/INSTALLER",
     "Lib/site-packages/comm-0.2.2.dist-info/METADATA",
@@ -19,20 +19,20 @@
     "Lib/site-packages/comm/__init__.py",
     "Lib/site-packages/comm/base_comm.py",
     "Lib/site-packages/comm/py.typed",
-    "Lib/site-packages/comm/__pycache__/__init__.cpython-313.pyc",
-    "Lib/site-packages/comm/__pycache__/base_comm.cpython-313.pyc"
+    "Lib/site-packages/comm/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/comm/__pycache__/base_comm.cpython-311.pyc"
   ],
   "fn": "comm-0.2.2-pyhd8ed1ab_1.conda",
   "license": "BSD-3-Clause",
   "license_family": "BSD",
   "link": {
-    "source": "d:\\anaconda\\pkgs\\comm-0.2.2-pyhd8ed1ab_1",
+    "source": "D:\\anaconda\\pkgs\\comm-0.2.2-pyhd8ed1ab_1",
     "type": 1
   },
   "md5": "74673132601ec2b7fc592755605f4c1b",
   "name": "comm",
   "noarch": "python",
-  "package_tarball_full_path": "d:\\anaconda\\pkgs\\comm-0.2.2-pyhd8ed1ab_1.conda",
+  "package_tarball_full_path": "D:\\anaconda\\pkgs\\comm-0.2.2-pyhd8ed1ab_1.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -107,11 +107,11 @@
         "size_in_bytes": 0
       },
       {
-        "_path": "Lib/site-packages/comm/__pycache__/__init__.cpython-313.pyc",
+        "_path": "Lib/site-packages/comm/__pycache__/__init__.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/comm/__pycache__/base_comm.cpython-313.pyc",
+        "_path": "Lib/site-packages/comm/__pycache__/base_comm.cpython-311.pyc",
         "path_type": "pyc_file"
       }
     ],

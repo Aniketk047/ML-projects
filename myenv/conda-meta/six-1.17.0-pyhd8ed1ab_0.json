@@ -6,7 +6,7 @@
   "depends": [
     "python >=3.9"
   ],
-  "extracted_package_dir": "d:\\anaconda\\pkgs\\six-1.17.0-pyhd8ed1ab_0",
+  "extracted_package_dir": "D:\\anaconda\\pkgs\\six-1.17.0-pyhd8ed1ab_0",
   "files": [
     "Lib/site-packages/six-1.17.0.dist-info/INSTALLER",
     "Lib/site-packages/six-1.17.0.dist-info/LICENSE",
@@ -17,19 +17,19 @@
     "Lib/site-packages/six-1.17.0.dist-info/direct_url.json",
     "Lib/site-packages/six-1.17.0.dist-info/top_level.txt",
     "Lib/site-packages/six.py",
-    "Lib/site-packages/__pycache__/six.cpython-313.pyc"
+    "Lib/site-packages/__pycache__/six.cpython-311.pyc"
   ],
   "fn": "six-1.17.0-pyhd8ed1ab_0.conda",
   "license": "MIT",
   "license_family": "MIT",
   "link": {
-    "source": "d:\\anaconda\\pkgs\\six-1.17.0-pyhd8ed1ab_0",
+    "source": "D:\\anaconda\\pkgs\\six-1.17.0-pyhd8ed1ab_0",
     "type": 1
   },
   "md5": "a451d576819089b0d672f18768be0f65",
   "name": "six",
   "noarch": "python",
-  "package_tarball_full_path": "d:\\anaconda\\pkgs\\six-1.17.0-pyhd8ed1ab_0.conda",
+  "package_tarball_full_path": "D:\\anaconda\\pkgs\\six-1.17.0-pyhd8ed1ab_0.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -97,7 +97,7 @@
         "size_in_bytes": 34703
       },
       {
-        "_path": "Lib/site-packages/__pycache__/six.cpython-313.pyc",
+        "_path": "Lib/site-packages/__pycache__/six.cpython-311.pyc",
         "path_type": "pyc_file"
       }
     ],

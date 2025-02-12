@@ -6,7 +6,7 @@
   "depends": [
     "python >=3.8"
   ],
-  "extracted_package_dir": "d:\\anaconda\\pkgs\\packaging-24.2-pyhd8ed1ab_2",
+  "extracted_package_dir": "D:\\anaconda\\pkgs\\packaging-24.2-pyhd8ed1ab_2",
   "files": [
     "Lib/site-packages/packaging-24.2.dist-info/INSTALLER",
     "Lib/site-packages/packaging-24.2.dist-info/LICENSE",
@@ -34,34 +34,34 @@
     "Lib/site-packages/packaging/tags.py",
     "Lib/site-packages/packaging/utils.py",
     "Lib/site-packages/packaging/version.py",
-    "Lib/site-packages/packaging/__pycache__/__init__.cpython-313.pyc",
-    "Lib/site-packages/packaging/__pycache__/_elffile.cpython-313.pyc",
-    "Lib/site-packages/packaging/__pycache__/_manylinux.cpython-313.pyc",
-    "Lib/site-packages/packaging/__pycache__/_musllinux.cpython-313.pyc",
-    "Lib/site-packages/packaging/__pycache__/_parser.cpython-313.pyc",
-    "Lib/site-packages/packaging/__pycache__/_structures.cpython-313.pyc",
-    "Lib/site-packages/packaging/__pycache__/_tokenizer.cpython-313.pyc",
-    "Lib/site-packages/packaging/licenses/__pycache__/__init__.cpython-313.pyc",
-    "Lib/site-packages/packaging/licenses/__pycache__/_spdx.cpython-313.pyc",
-    "Lib/site-packages/packaging/__pycache__/markers.cpython-313.pyc",
-    "Lib/site-packages/packaging/__pycache__/metadata.cpython-313.pyc",
-    "Lib/site-packages/packaging/__pycache__/requirements.cpython-313.pyc",
-    "Lib/site-packages/packaging/__pycache__/specifiers.cpython-313.pyc",
-    "Lib/site-packages/packaging/__pycache__/tags.cpython-313.pyc",
-    "Lib/site-packages/packaging/__pycache__/utils.cpython-313.pyc",
-    "Lib/site-packages/packaging/__pycache__/version.cpython-313.pyc"
+    "Lib/site-packages/packaging/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/packaging/__pycache__/_elffile.cpython-311.pyc",
+    "Lib/site-packages/packaging/__pycache__/_manylinux.cpython-311.pyc",
+    "Lib/site-packages/packaging/__pycache__/_musllinux.cpython-311.pyc",
+    "Lib/site-packages/packaging/__pycache__/_parser.cpython-311.pyc",
+    "Lib/site-packages/packaging/__pycache__/_structures.cpython-311.pyc",
+    "Lib/site-packages/packaging/__pycache__/_tokenizer.cpython-311.pyc",
+    "Lib/site-packages/packaging/licenses/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/packaging/licenses/__pycache__/_spdx.cpython-311.pyc",
+    "Lib/site-packages/packaging/__pycache__/markers.cpython-311.pyc",
+    "Lib/site-packages/packaging/__pycache__/metadata.cpython-311.pyc",
+    "Lib/site-packages/packaging/__pycache__/requirements.cpython-311.pyc",
+    "Lib/site-packages/packaging/__pycache__/specifiers.cpython-311.pyc",
+    "Lib/site-packages/packaging/__pycache__/tags.cpython-311.pyc",
+    "Lib/site-packages/packaging/__pycache__/utils.cpython-311.pyc",
+    "Lib/site-packages/packaging/__pycache__/version.cpython-311.pyc"
   ],
   "fn": "packaging-24.2-pyhd8ed1ab_2.conda",
   "license": "Apache-2.0",
   "license_family": "APACHE",
   "link": {
-    "source": "d:\\anaconda\\pkgs\\packaging-24.2-pyhd8ed1ab_2",
+    "source": "D:\\anaconda\\pkgs\\packaging-24.2-pyhd8ed1ab_2",
     "type": 1
   },
   "md5": "3bfed7e6228ebf2f7b9eaa47f1b4e2aa",
   "name": "packaging",
   "noarch": "python",
-  "package_tarball_full_path": "d:\\anaconda\\pkgs\\packaging-24.2-pyhd8ed1ab_2.conda",
+  "package_tarball_full_path": "D:\\anaconda\\pkgs\\packaging-24.2-pyhd8ed1ab_2.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -248,67 +248,67 @@
         "size_in_bytes": 16676
       },
       {
-        "_path": "Lib/site-packages/packaging/__pycache__/__init__.cpython-313.pyc",
+        "_path": "Lib/site-packages/packaging/__pycache__/__init__.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/packaging/__pycache__/_elffile.cpython-313.pyc",
+        "_path": "Lib/site-packages/packaging/__pycache__/_elffile.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/packaging/__pycache__/_manylinux.cpython-313.pyc",
+        "_path": "Lib/site-packages/packaging/__pycache__/_manylinux.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/packaging/__pycache__/_musllinux.cpython-313.pyc",
+        "_path": "Lib/site-packages/packaging/__pycache__/_musllinux.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/packaging/__pycache__/_parser.cpython-313.pyc",
+        "_path": "Lib/site-packages/packaging/__pycache__/_parser.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/packaging/__pycache__/_structures.cpython-313.pyc",
+        "_path": "Lib/site-packages/packaging/__pycache__/_structures.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/packaging/__pycache__/_tokenizer.cpython-313.pyc",
+        "_path": "Lib/site-packages/packaging/__pycache__/_tokenizer.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/packaging/licenses/__pycache__/__init__.cpython-313.pyc",
+        "_path": "Lib/site-packages/packaging/licenses/__pycache__/__init__.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/packaging/licenses/__pycache__/_spdx.cpython-313.pyc",
+        "_path": "Lib/site-packages/packaging/licenses/__pycache__/_spdx.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/packaging/__pycache__/markers.cpython-313.pyc",
+        "_path": "Lib/site-packages/packaging/__pycache__/markers.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/packaging/__pycache__/metadata.cpython-313.pyc",
+        "_path": "Lib/site-packages/packaging/__pycache__/metadata.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/packaging/__pycache__/requirements.cpython-313.pyc",
+        "_path": "Lib/site-packages/packaging/__pycache__/requirements.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/packaging/__pycache__/specifiers.cpython-313.pyc",
+        "_path": "Lib/site-packages/packaging/__pycache__/specifiers.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/packaging/__pycache__/tags.cpython-313.pyc",
+        "_path": "Lib/site-packages/packaging/__pycache__/tags.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/packaging/__pycache__/utils.cpython-313.pyc",
+        "_path": "Lib/site-packages/packaging/__pycache__/utils.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/packaging/__pycache__/version.cpython-313.pyc",
+        "_path": "Lib/site-packages/packaging/__pycache__/version.cpython-311.pyc",
         "path_type": "pyc_file"
       }
     ],

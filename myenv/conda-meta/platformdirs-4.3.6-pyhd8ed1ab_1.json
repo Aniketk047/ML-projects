@@ -6,7 +6,7 @@
   "depends": [
     "python >=3.9"
   ],
-  "extracted_package_dir": "d:\\anaconda\\pkgs\\platformdirs-4.3.6-pyhd8ed1ab_1",
+  "extracted_package_dir": "D:\\anaconda\\pkgs\\platformdirs-4.3.6-pyhd8ed1ab_1",
   "files": [
     "Lib/site-packages/platformdirs-4.3.6.dist-info/INSTALLER",
     "Lib/site-packages/platformdirs-4.3.6.dist-info/METADATA",
@@ -24,26 +24,26 @@
     "Lib/site-packages/platformdirs/unix.py",
     "Lib/site-packages/platformdirs/version.py",
     "Lib/site-packages/platformdirs/windows.py",
-    "Lib/site-packages/platformdirs/__pycache__/__init__.cpython-313.pyc",
-    "Lib/site-packages/platformdirs/__pycache__/__main__.cpython-313.pyc",
-    "Lib/site-packages/platformdirs/__pycache__/android.cpython-313.pyc",
-    "Lib/site-packages/platformdirs/__pycache__/api.cpython-313.pyc",
-    "Lib/site-packages/platformdirs/__pycache__/macos.cpython-313.pyc",
-    "Lib/site-packages/platformdirs/__pycache__/unix.cpython-313.pyc",
-    "Lib/site-packages/platformdirs/__pycache__/version.cpython-313.pyc",
-    "Lib/site-packages/platformdirs/__pycache__/windows.cpython-313.pyc"
+    "Lib/site-packages/platformdirs/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/__main__.cpython-311.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/android.cpython-311.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/api.cpython-311.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/macos.cpython-311.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/unix.cpython-311.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/version.cpython-311.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/windows.cpython-311.pyc"
   ],
   "fn": "platformdirs-4.3.6-pyhd8ed1ab_1.conda",
   "license": "MIT",
   "license_family": "MIT",
   "link": {
-    "source": "d:\\anaconda\\pkgs\\platformdirs-4.3.6-pyhd8ed1ab_1",
+    "source": "D:\\anaconda\\pkgs\\platformdirs-4.3.6-pyhd8ed1ab_1",
     "type": 1
   },
   "md5": "577852c7e53901ddccc7e6a9959ddebe",
   "name": "platformdirs",
   "noarch": "python",
-  "package_tarball_full_path": "d:\\anaconda\\pkgs\\platformdirs-4.3.6-pyhd8ed1ab_1.conda",
+  "package_tarball_full_path": "D:\\anaconda\\pkgs\\platformdirs-4.3.6-pyhd8ed1ab_1.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -160,35 +160,35 @@
         "size_in_bytes": 10125
       },
       {
-        "_path": "Lib/site-packages/platformdirs/__pycache__/__init__.cpython-313.pyc",
+        "_path": "Lib/site-packages/platformdirs/__pycache__/__init__.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/platformdirs/__pycache__/__main__.cpython-313.pyc",
+        "_path": "Lib/site-packages/platformdirs/__pycache__/__main__.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/platformdirs/__pycache__/android.cpython-313.pyc",
+        "_path": "Lib/site-packages/platformdirs/__pycache__/android.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/platformdirs/__pycache__/api.cpython-313.pyc",
+        "_path": "Lib/site-packages/platformdirs/__pycache__/api.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/platformdirs/__pycache__/macos.cpython-313.pyc",
+        "_path": "Lib/site-packages/platformdirs/__pycache__/macos.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/platformdirs/__pycache__/unix.cpython-313.pyc",
+        "_path": "Lib/site-packages/platformdirs/__pycache__/unix.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/platformdirs/__pycache__/version.cpython-313.pyc",
+        "_path": "Lib/site-packages/platformdirs/__pycache__/version.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/platformdirs/__pycache__/windows.cpython-313.pyc",
+        "_path": "Lib/site-packages/platformdirs/__pycache__/windows.cpython-311.pyc",
         "path_type": "pyc_file"
       }
     ],

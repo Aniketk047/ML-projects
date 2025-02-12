@@ -6,7 +6,7 @@
   "depends": [
     "python >=3.9"
   ],
-  "extracted_package_dir": "d:\\anaconda\\pkgs\\wcwidth-0.2.13-pyhd8ed1ab_1",
+  "extracted_package_dir": "D:\\anaconda\\pkgs\\wcwidth-0.2.13-pyhd8ed1ab_1",
   "files": [
     "Lib/site-packages/wcwidth-0.2.13.dist-info/INSTALLER",
     "Lib/site-packages/wcwidth-0.2.13.dist-info/LICENSE",
@@ -23,24 +23,24 @@
     "Lib/site-packages/wcwidth/table_zero.py",
     "Lib/site-packages/wcwidth/unicode_versions.py",
     "Lib/site-packages/wcwidth/wcwidth.py",
-    "Lib/site-packages/wcwidth/__pycache__/__init__.cpython-313.pyc",
-    "Lib/site-packages/wcwidth/__pycache__/table_vs16.cpython-313.pyc",
-    "Lib/site-packages/wcwidth/__pycache__/table_wide.cpython-313.pyc",
-    "Lib/site-packages/wcwidth/__pycache__/table_zero.cpython-313.pyc",
-    "Lib/site-packages/wcwidth/__pycache__/unicode_versions.cpython-313.pyc",
-    "Lib/site-packages/wcwidth/__pycache__/wcwidth.cpython-313.pyc"
+    "Lib/site-packages/wcwidth/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/wcwidth/__pycache__/table_vs16.cpython-311.pyc",
+    "Lib/site-packages/wcwidth/__pycache__/table_wide.cpython-311.pyc",
+    "Lib/site-packages/wcwidth/__pycache__/table_zero.cpython-311.pyc",
+    "Lib/site-packages/wcwidth/__pycache__/unicode_versions.cpython-311.pyc",
+    "Lib/site-packages/wcwidth/__pycache__/wcwidth.cpython-311.pyc"
   ],
   "fn": "wcwidth-0.2.13-pyhd8ed1ab_1.conda",
   "license": "MIT",
   "license_family": "MIT",
   "link": {
-    "source": "d:\\anaconda\\pkgs\\wcwidth-0.2.13-pyhd8ed1ab_1",
+    "source": "D:\\anaconda\\pkgs\\wcwidth-0.2.13-pyhd8ed1ab_1",
     "type": 1
   },
   "md5": "b68980f2495d096e71c7fd9d7ccf63e6",
   "name": "wcwidth",
   "noarch": "python",
-  "package_tarball_full_path": "d:\\anaconda\\pkgs\\wcwidth-0.2.13-pyhd8ed1ab_1.conda",
+  "package_tarball_full_path": "D:\\anaconda\\pkgs\\wcwidth-0.2.13-pyhd8ed1ab_1.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -150,27 +150,27 @@
         "size_in_bytes": 14512
       },
       {
-        "_path": "Lib/site-packages/wcwidth/__pycache__/__init__.cpython-313.pyc",
+        "_path": "Lib/site-packages/wcwidth/__pycache__/__init__.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/wcwidth/__pycache__/table_vs16.cpython-313.pyc",
+        "_path": "Lib/site-packages/wcwidth/__pycache__/table_vs16.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/wcwidth/__pycache__/table_wide.cpython-313.pyc",
+        "_path": "Lib/site-packages/wcwidth/__pycache__/table_wide.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/wcwidth/__pycache__/table_zero.cpython-313.pyc",
+        "_path": "Lib/site-packages/wcwidth/__pycache__/table_zero.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/wcwidth/__pycache__/unicode_versions.cpython-313.pyc",
+        "_path": "Lib/site-packages/wcwidth/__pycache__/unicode_versions.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/wcwidth/__pycache__/wcwidth.cpython-313.pyc",
+        "_path": "Lib/site-packages/wcwidth/__pycache__/wcwidth.cpython-311.pyc",
         "path_type": "pyc_file"
       }
     ],

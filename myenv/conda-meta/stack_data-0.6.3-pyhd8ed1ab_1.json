@@ -9,7 +9,7 @@
     "pure_eval",
     "python >=3.9"
   ],
-  "extracted_package_dir": "d:\\anaconda\\pkgs\\stack_data-0.6.3-pyhd8ed1ab_1",
+  "extracted_package_dir": "D:\\anaconda\\pkgs\\stack_data-0.6.3-pyhd8ed1ab_1",
   "files": [
     "Lib/site-packages/stack_data-0.6.3.dist-info/INSTALLER",
     "Lib/site-packages/stack_data-0.6.3.dist-info/LICENSE.txt",
@@ -26,24 +26,24 @@
     "Lib/site-packages/stack_data/serializing.py",
     "Lib/site-packages/stack_data/utils.py",
     "Lib/site-packages/stack_data/version.py",
-    "Lib/site-packages/stack_data/__pycache__/__init__.cpython-313.pyc",
-    "Lib/site-packages/stack_data/__pycache__/core.cpython-313.pyc",
-    "Lib/site-packages/stack_data/__pycache__/formatting.cpython-313.pyc",
-    "Lib/site-packages/stack_data/__pycache__/serializing.cpython-313.pyc",
-    "Lib/site-packages/stack_data/__pycache__/utils.cpython-313.pyc",
-    "Lib/site-packages/stack_data/__pycache__/version.cpython-313.pyc"
+    "Lib/site-packages/stack_data/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/stack_data/__pycache__/core.cpython-311.pyc",
+    "Lib/site-packages/stack_data/__pycache__/formatting.cpython-311.pyc",
+    "Lib/site-packages/stack_data/__pycache__/serializing.cpython-311.pyc",
+    "Lib/site-packages/stack_data/__pycache__/utils.cpython-311.pyc",
+    "Lib/site-packages/stack_data/__pycache__/version.cpython-311.pyc"
   ],
   "fn": "stack_data-0.6.3-pyhd8ed1ab_1.conda",
   "license": "MIT",
   "license_family": "MIT",
   "link": {
-    "source": "d:\\anaconda\\pkgs\\stack_data-0.6.3-pyhd8ed1ab_1",
+    "source": "D:\\anaconda\\pkgs\\stack_data-0.6.3-pyhd8ed1ab_1",
     "type": 1
   },
   "md5": "b1b505328da7a6b246787df4b5a49fbc",
   "name": "stack_data",
   "noarch": "python",
-  "package_tarball_full_path": "d:\\anaconda\\pkgs\\stack_data-0.6.3-pyhd8ed1ab_1.conda",
+  "package_tarball_full_path": "D:\\anaconda\\pkgs\\stack_data-0.6.3-pyhd8ed1ab_1.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -153,27 +153,27 @@
         "size_in_bytes": 22
       },
       {
-        "_path": "Lib/site-packages/stack_data/__pycache__/__init__.cpython-313.pyc",
+        "_path": "Lib/site-packages/stack_data/__pycache__/__init__.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/stack_data/__pycache__/core.cpython-313.pyc",
+        "_path": "Lib/site-packages/stack_data/__pycache__/core.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/stack_data/__pycache__/formatting.cpython-313.pyc",
+        "_path": "Lib/site-packages/stack_data/__pycache__/formatting.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/stack_data/__pycache__/serializing.cpython-313.pyc",
+        "_path": "Lib/site-packages/stack_data/__pycache__/serializing.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/stack_data/__pycache__/utils.cpython-313.pyc",
+        "_path": "Lib/site-packages/stack_data/__pycache__/utils.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/stack_data/__pycache__/version.cpython-313.pyc",
+        "_path": "Lib/site-packages/stack_data/__pycache__/version.cpython-311.pyc",
         "path_type": "pyc_file"
       }
     ],

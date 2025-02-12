@@ -7,7 +7,7 @@
     "python >=3.9",
     "traitlets"
   ],
-  "extracted_package_dir": "d:\\anaconda\\pkgs\\matplotlib-inline-0.1.7-pyhd8ed1ab_1",
+  "extracted_package_dir": "D:\\anaconda\\pkgs\\matplotlib-inline-0.1.7-pyhd8ed1ab_1",
   "files": [
     "Lib/site-packages/matplotlib_inline-0.1.7.dist-info/INSTALLER",
     "Lib/site-packages/matplotlib_inline-0.1.7.dist-info/LICENSE",
@@ -21,21 +21,21 @@
     "Lib/site-packages/matplotlib_inline/__init__.py",
     "Lib/site-packages/matplotlib_inline/backend_inline.py",
     "Lib/site-packages/matplotlib_inline/config.py",
-    "Lib/site-packages/matplotlib_inline/__pycache__/__init__.cpython-313.pyc",
-    "Lib/site-packages/matplotlib_inline/__pycache__/backend_inline.cpython-313.pyc",
-    "Lib/site-packages/matplotlib_inline/__pycache__/config.cpython-313.pyc"
+    "Lib/site-packages/matplotlib_inline/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/matplotlib_inline/__pycache__/backend_inline.cpython-311.pyc",
+    "Lib/site-packages/matplotlib_inline/__pycache__/config.cpython-311.pyc"
   ],
   "fn": "matplotlib-inline-0.1.7-pyhd8ed1ab_1.conda",
   "license": "BSD-3-Clause",
   "license_family": "BSD",
   "link": {
-    "source": "d:\\anaconda\\pkgs\\matplotlib-inline-0.1.7-pyhd8ed1ab_1",
+    "source": "D:\\anaconda\\pkgs\\matplotlib-inline-0.1.7-pyhd8ed1ab_1",
     "type": 1
   },
   "md5": "af6ab708897df59bd6e7283ceab1b56b",
   "name": "matplotlib-inline",
   "noarch": "python",
-  "package_tarball_full_path": "d:\\anaconda\\pkgs\\matplotlib-inline-0.1.7-pyhd8ed1ab_1.conda",
+  "package_tarball_full_path": "D:\\anaconda\\pkgs\\matplotlib-inline-0.1.7-pyhd8ed1ab_1.conda",
   "package_type": "noarch_python",
   "paths_data": {
     "paths": [
@@ -124,15 +124,15 @@
         "size_in_bytes": 3911
       },
       {
-        "_path": "Lib/site-packages/matplotlib_inline/__pycache__/__init__.cpython-313.pyc",
+        "_path": "Lib/site-packages/matplotlib_inline/__pycache__/__init__.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/matplotlib_inline/__pycache__/backend_inline.cpython-313.pyc",
+        "_path": "Lib/site-packages/matplotlib_inline/__pycache__/backend_inline.cpython-311.pyc",
         "path_type": "pyc_file"
       },
       {
-        "_path": "Lib/site-packages/matplotlib_inline/__pycache__/config.cpython-313.pyc",
+        "_path": "Lib/site-packages/matplotlib_inline/__pycache__/config.cpython-311.pyc",
         "path_type": "pyc_file"
       }
     ],
